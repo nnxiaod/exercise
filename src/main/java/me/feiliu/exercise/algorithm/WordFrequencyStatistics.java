@@ -10,6 +10,8 @@ import java.util.regex.Pattern;
 /**
  * 词频统计 word frequency statistics
  *
+ * 题目：读入一个文本文件，确定所有单词的使用频率并从高到低排序，打印出所有单词及其频率的排序列表
+ *
  * 来源:<<函数式编程思维>> 1.1
  *
  * @author liufei
