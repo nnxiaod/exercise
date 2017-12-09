@@ -1,12 +1,9 @@
 package me.feiliu.exercise.algorithm;
 
-import jdk.nashorn.internal.ir.FunctionCall;
 import org.apache.commons.io.FileUtils;
 
 import java.io.*;
-import java.nio.charset.Charset;
 import java.util.*;
-import java.util.function.BiFunction;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
